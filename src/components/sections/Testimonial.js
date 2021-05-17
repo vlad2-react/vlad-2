@@ -56,7 +56,9 @@ const Testimonial = ({
       <div className="container">
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
-          <div className={tilesClasses}>
+          <iframe id="iframe" name="iframe" src="https://stroy-calc.ru/widj?str=raschet-lentochnogo-fundamenta&bgcol=151719&tcol=fff&elcol=6163FF&dis=none" width="100%" height="1000px" frameborder="0" />
+
+        <div className={tilesClasses}>
 
             <div className="tiles-item reveal-from-right" data-reveal-delay="200">
               <div className="tiles-item-inner">
