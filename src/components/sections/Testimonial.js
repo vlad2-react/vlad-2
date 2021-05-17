@@ -1,4 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
+import ReactDOM from 'react-dom';
+
 import classNames from 'classnames';
 import { SectionTilesProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
@@ -48,6 +50,7 @@ const Testimonial = ({
     paragraph: 'Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.'
   };
 
+
   return (
     <section
       {...props}
@@ -56,7 +59,13 @@ const Testimonial = ({
       <div className="container">
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
-          <iframe id="iframe" name="iframe" src="https://stroy-calc.ru/widj?str=raschet-lentochnogo-fundamenta&bgcol=151719&tcol=fff&elcol=6163FF&dis=none" width="100%" height="1000px" frameborder="0" />
+          <iframe id="iframe" name="iframe"
+                  src="https://stroy-calc.ru/widj?str=raschet-lentochnogo-fundamenta&bgcol=151719&tcol=fff&elcol=6163FF&dis=none"
+                  frameBorder="0"
+                  width="100%"
+                  height="1200px"
+                  style={{"margin-bottom" : "60px"}}
+          />
 
         <div className={tilesClasses}>
 
