@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#0" onClick={closeMenu}>Калькулятор</Link>
+                      <a href="#calc" onClick={closeMenu}>Калькулятор</a>
                     </li>
                   </ul>
                   {!hideSignin &&
