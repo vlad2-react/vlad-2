@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/vlad-2/static/css/main.d170fb26.chunk.css",
+    "main.js": "/vlad-2/static/js/main.9ed3b28f.chunk.js",
+    "main.js.map": "/vlad-2/static/js/main.9ed3b28f.chunk.js.map",
+    "runtime-main.js": "/vlad-2/static/js/runtime-main.80597e7a.js",
+    "runtime-main.js.map": "/vlad-2/static/js/runtime-main.80597e7a.js.map",
+    "static/js/2.1119d4f7.chunk.js": "/vlad-2/static/js/2.1119d4f7.chunk.js",
+    "static/js/2.1119d4f7.chunk.js.map": "/vlad-2/static/js/2.1119d4f7.chunk.js.map",
+    "index.html": "/vlad-2/index.html",
+    "precache-manifest.87e55bc7046ee8f5f858c2a733e53db3.js": "/vlad-2/precache-manifest.87e55bc7046ee8f5f858c2a733e53db3.js",
+    "service-worker.js": "/vlad-2/service-worker.js",
+    "static/css/main.d170fb26.chunk.css.map": "/vlad-2/static/css/main.d170fb26.chunk.css.map",
+    "static/js/2.1119d4f7.chunk.js.LICENSE.txt": "/vlad-2/static/js/2.1119d4f7.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/vlad-2/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-02.svg": "/vlad-2/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/vlad-2/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-05.svg": "/vlad-2/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/features-split-image-01.jpg": "/vlad-2/static/media/features-split-image-01.05b9f110.jpg",
+    "static/media/features-split-image-02.jpg": "/vlad-2/static/media/features-split-image-02.cfafde53.jpg",
+    "static/media/features-split-image-03.jpg": "/vlad-2/static/media/features-split-image-03.7cd570ec.jpg",
+    "static/media/features-split-image-04.jpg": "/vlad-2/static/media/features-split-image-04.892e1f71.jpg",
+    "static/media/logo.svg": "/vlad-2/static/media/logo.2810a88b.svg",
+    "static/media/partner-1.png": "/vlad-2/static/media/partner-1.b74b37f2.png",
+    "static/media/partner-10.png": "/vlad-2/static/media/partner-10.3f700075.png",
+    "static/media/partner-11.png": "/vlad-2/static/media/partner-11.df323613.png",
+    "static/media/partner-12.png": "/vlad-2/static/media/partner-12.95abbca6.png",
+    "static/media/partner-7.png": "/vlad-2/static/media/partner-7.6f6cd08a.png",
+    "static/media/partner-8.png": "/vlad-2/static/media/partner-8.1d83be25.png",
+    "static/media/video-placeholder.jpg": "/vlad-2/static/media/video-placeholder.a4fe6b43.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80597e7a.js",
+    "static/js/2.1119d4f7.chunk.js",
+    "static/css/main.d170fb26.chunk.css",
+    "static/js/main.9ed3b28f.chunk.js"
+  ]
+}
